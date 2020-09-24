@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+.jumbotron {
+    background-image: url("../img/davidwhitespace.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#david2 {
+    border-bottom: 2px black;
+}
